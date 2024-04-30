@@ -1,4 +1,4 @@
-# Online-Voting-System
+# eBallotBox
 It is an online voting  system in which you can vote for your preferred party and live count of votes(total / each individual party) is shown.<br>
 <h1>Some features of this project</h1>
 1.You have to be logged in to vote<br>
